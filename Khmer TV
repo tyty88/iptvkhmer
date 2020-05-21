@@ -1,0 +1,76 @@
+#EXTM3U
+#EXTINF:-1,OneTV01
+http://36.37.252.116:7788/live/OneTV-001.m3u8
+#EXTINF:-1,OneTV02
+http://36.37.252.116:7788/live/OneTV-004.m3u8
+#EXTINF:-1,OneTV03
+http://36.37.252.116:7788/live/OneTV-003.m3u8
+#EXTINF:-1,OneTV05
+http://36.37.252.116:7788/live/OneTV-002.m3u8
+#EXTINF:-1,OneTV06
+http://36.37.252.116:7788/live/OneTV-007.m3u8
+#EXTINF:-1,OneTV07
+http://36.37.252.116:7788/live/OneTV-005.m3u8
+#EXTINF:-1,OneTV08
+http://36.37.252.116:7788/live/OneTV-006.m3u8
+#EXTINF:-1,OneTV09
+http://36.37.252.116:7788/live/iPlus-058.m3u8
+#EXTINF:-1,OneTV11
+http://36.37.252.116:7788/live/iPlus-055.m3u8
+
+#EXTINF:-1,MSJ TV
+http://124.248.165.18:1935/live/myStream.smil/chunklist_w54390393_b264000_sleng.m3u8
+
+#EXTINF:-1,HM  HDTV
+http://malisresidences.com:1935/hm_hdtv/_definst_/smil:HMHDTV.smil/chunklist_w166165374_b800000_sleng.m3u8
+
+#EXTINF:-1,RHM HDTV
+http://malisresidences.com:1935/rhm_hdtv/_definst_/smil:RHMHDTV.smil/chunklist_w1013365160_b1800000_sleng.m3u8
+
+#EXTINF:-1,MY TV
+http://43.245.34.2:9000/b25ldHZlbmNyeXB0/MyTVKH.m3u8
+
+#EXTINF:-1,PNN TV
+http://203.176.130.123:8989/live/pnn_480k.stream/playlist.m3u8
+
+#EXTINF:-1,CTN TV
+http://43.245.34.2:9000/b25ldHZlbmNyeXB0/CTNKH.m3u8
+
+#EXTINF:-1,CNC TV
+http://43.245.34.2:9000/b25ldHZlbmNyeXB0/CNCKH.m3u8
+
+#EXTINF:-1,BAYON TV
+http://203.176.130.123:8989/live/bayontv_480k.stream/chunklist.m3u8
+
+#EXTINF:-1, TV 5
+http://203.176.130.123:8989/live/tv5_480k.stream/chunklist_w2128596178.m3u8
+
+#EXTINF:-1,FRESH NEWS TV
+http://167.99.65.12:1935/live/myStream/playlist.m3u8
+
+#EXTINF:-1,B TV
+http://tv.cootel.com.kh:8079/streams/d/BayonTVNews_480/playlist.m3u8
+
+#EXTINF:-1,CTV8 HD
+http://220.158.149.26:8182/hls/TV00000000000000000142@HHZT.m3u8
+
+#EXTINF:-1,TVK
+http://203.176.130.123:8989/live/tvk_480k.stream/chunklist_w505472537.m3u8
+
+#EXTINF:-1,APSARA TV
+http://203.176.130.123:8989/live/apsaratv_480k.stream/playlist.m3u8
+
+#EXTINF:-1,WIKI TV
+http://wikitv-streaming.poscarasia.com:1935/live/ngrp:myStream_all/chunklist_w1298470679_b1046608.m3u8
+
+#EXTINF:-1,SEA TV
+http://203.176.130.123:8989/live/seatv_480k.stream/playlist.m3u8
+
+#EXTINF:-1,TV 3HD
+http://43.245.34.2:9000/b25ldHZlbmNyeXB0/TV3KH.m3u8
+
+#EXTINF:-1,TWON TV
+http://110.235.246.230:81/sdi_ext
+
+
+
